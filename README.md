@@ -105,6 +105,6 @@ scalability</a>
 
 <a href=https://docs.oracle.com/en/database/oracle/oracle-database/19/cncpt/data-concurrency-and-consistency.html#GUID-0D5DA0E0-28DF-498A-B2E5-B9207AC2BAE6>Locks and Unindexed Foreign Keys</a>
 
-<a href=https://docs.oracle.com/en/database/oracle/oracle-database/19/cncpt/data-concurrency-and-consistency.html#GUID-0D5DA0E0-28DF-498A-B2E5-B9207AC2BAE6>Locks and Indexed Foreign Keys</a>
+<a href=https://docs.oracle.com/en/database/oracle/oracle-database/19/cncpt/data-concurrency-and-consistency.html#GUID-02E89C3B-91C8-4ACD-A43B-55C1DC970D16>Locks and Indexed Foreign Keys</a>
 
 
