@@ -9,6 +9,8 @@ Here are some SQL scripts that I have first published on OTN forums using follow
 
 ## Oracle links
 
+#### From Database Concepts: <a href=https://docs.oracle.com/en/database/oracle/oracle-database/19/cncpt/concepts-for-database-developers.html#GUID-0B18B469-8BC5-4AAD-9DF6-699C687D344A>Principles of Application Design and Tuning</a>
+
 ### Guides
 <a href=https://docs.oracle.com/en/database/oracle/oracle-database/19/adfns/database-development-guide.pdf>Database Development Guide</a>
 
